@@ -1,5 +1,5 @@
 # Quem eu sou?🧑
-### Olá! Meu nome é Franco Ribeiro Borba, tenho 21 anos e sou estudante do 4º semestre de Ciência da Computação na UESB.
+### Olá! Meu nome é Franco Ribeiro Borba, tenho 21 anos e sou estudante do 5º semestre de Ciência da Computação na UESB.
 
 # Conhecimentos e interesses
 ### Meus principais interesses na área de programação incluem backend, redes e banco de dados. Tenho mais proficiência em Java, mas também estou explorando o potencial de Python para diversas aplicações. Além disso, adquiri um leve conhecimento em eletrônica e habilidades de ensino através da minha participação no programa PETI. Estou sempre buscando aprimorar minhas capacidades nessas áreas e aplicar o que aprendo em projetos práticos.
